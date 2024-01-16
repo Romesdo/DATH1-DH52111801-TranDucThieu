@@ -1,0 +1,68 @@
+Cà Phê Đen Nóng,Cà Phê Việt Nam,39000,1
+Cà Phê Sữa Đá,Cà Phê Việt Nam,39000,1
+Americano Đá,Cà Phê Máy,49000,1
+Latte Đá,Cà Phê Máy,59000,1
+Americano Nóng,Cà Phê Máy,49000,1
+Cappuccino Đá,Cà Phê Máy,59000,1
+Bạc Sỉu Nóng,Cà Phê Việt Nam,39000,1
+Bạc Sỉu,Cà Phê Việt Nam,39000,1
+Cà Phê Đen Đá,Cà Phê Việt Nam,39000,1
+Cà Phê Sữa Nóng,Cà Phê Việt Nam,39000,1
+Espresso Nóng,Cà Phê Máy,49000,1
+Espresso Đá,Cà Phê Máy,49000,1
+Latte Nóng,Cà Phê Máy,59000,1
+Cappuccino Nóng,Cà Phê Máy,59000,1
+Cold Brew Truyền Thống,ColdBrew,49000,1
+Trà Đào Cam Sả - Đá,Trà Trái Cây,59000,1
+Trà Đào Cam Sả - Nóng,Trà Trái Cây,59000,1
+Trà Dưa Hấu,Trà Trái Cây,49000,1
+Trà Táo,Trà Trái Cây,49000,1
+Trà Sữa Óc Chó Trân Châu,Trà Sữa,55000,1
+Trà Sữa Khoai Môn,Trà Sữa,55000,1
+Trà Sữa Oreo Cake Cream,Trà Sữa,55000,1
+HighFee Sài Gòn,HighFee,55000,1
+HighTea Hồng Trà ,HighTea,59000,1
+HighFee Đà Nẵng,HighFee,55000,1
+HighTea Dalagon Matcha,HighTea,59000,1
+HighFee Hà Nội,HighFee,55000,1
+HighTea Bạc Hà,HighTea,59000,1
+Trà Chanh Dây,Trà Trái Cây,59000,1
+Chocolate Đá,Trà Xanh - Chocolate,55000,1
+Chocolate (Nóng),Trà Xanh - Chocolate,55000,1
+Bánh Mì Thịt Nguội,Bánh Mặn,39000,1
+Bánh Chà Bông Chesse,Bánh Mặn,39000,1
+Bánh Mì Gậy Gà Nướng Sốt,Bánh Mặn,25000,1
+Cold Brew Cam,ColdBrew,49000,1
+Cold Brew Chanh,ColdBrew,49000,1
+Mochi Mochi Chanh Dây,Bánh Ngọt,19000,1
+Mochi Mochi Việt Quất,Bánh Ngọt,19000,1
+Mochi Mochi Sapoche,Bánh Ngọt,19000,1
+Matcha Pra,Bánh Ngọt,39000,1
+Bánh Sừng Bò Sốt Muối,Bánh Mặn,39000,1
+Bánh Mì Gậy Cá Ngừ Phô Mai,Bánh Mặn,25000,1
+Bánh Mì Que Nem Nướng,Bánh Mặn,20000,1
+Bánh Mì Que Nem Nướng Cay,Bánh Mặn,20000,1
+Mochi Mochi Cam ,Bánh Ngọt,19000,1
+Mochi Mochi Kiwi,Bánh Ngọt,19000,1
+Mochi Mochi Dâu,Bánh Ngọt,19000,1
+Tiramisu,Bánh Ngọt,35000,1
+Passion Cheese,Bánh Ngọt,35000,1
+Red Velvet,Bánh Ngọt,35000,1
+Milk Green Tea,Trà Xanh - Chocolate,49000,1
+Milk Green Tea (Nóng),Trà Xanh - Chocolate,49000,1
+Trà Sữa Trân Châu Đường Đen,Trà Sữa,55000,1
+Trà Sữa Matcha Đậu Đỏ,Trà Sữa,55000,1
+Trà Sữa Than Tre,Trà Sữa,55000,1
+Blue Berry R-Tea,R-Tea,65000,1
+Strawberry R-Tea,R-Tea,65000,1
+Rose Peach R-Tea,R-Tea,65000,1
+Ginger R-Tea,R-Tea,65000,1
+Cherry Dragon R-Tea,R-Tea,65000,1
+Mojito R-Tea,R-Tea,65000,1
+Cocoa Ice Blended,Ice Blended,65000,1
+Chocolate Ice Blended,Ice Blended,65000,1
+Cookie Ice Blended,Ice Blended,65000,1
+Oreo Chocolate Ice Blended,Ice Blended,65000,1
+Mint Chocolate Ice Blended,Ice Blended,65000,1
+Matcha Ice Blended,Ice Blended,65000,1
+Flower Milk R-Tea,R-Tea,65000,1

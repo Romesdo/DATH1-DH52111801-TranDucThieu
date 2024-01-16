@@ -1,0 +1,51 @@
+D:\Đồ án tin học\Quan_Ly_F&B\Quan_Ly_F&B\bin\Debug\Quan_Ly_F&B.exe.config
+D:\Đồ án tin học\Quan_Ly_F&B\Quan_Ly_F&B\bin\Debug\Quan_Ly_F&B.exe
+D:\Đồ án tin học\Quan_Ly_F&B\Quan_Ly_F&B\bin\Debug\Quan_Ly_F&B.pdb
+D:\Đồ án tin học\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F&B.csproj.AssemblyReference.cache
+D:\Đồ án tin học\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.fLogin.resources
+D:\Đồ án tin học\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.Properties.Resources.resources
+D:\Đồ án tin học\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F&B.csproj.GenerateResource.cache
+D:\Đồ án tin học\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F&B.csproj.CoreCompileInputs.cache
+D:\Đồ án tin học\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F&B.exe
+D:\Đồ án tin học\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F&B.pdb
+D:\Đồ án tin học\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.fTableManager.resources
+D:\Đồ án tin học\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.fMenu.resources
+D:\Đồ án tin học\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.fBill.resources
+D:\Đồ án tin học\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.fStaff.resources
+D:\Đồ án tin học\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.fRevenue.resources
+D:\Đồ án tin học\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.fNotification.resources
+D:\Đồ án tin học\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.fPOSOrder.resources
+C:\Users\cuong\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\bin\Debug\Quan_Ly_F&B.exe.config
+C:\Users\cuong\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\bin\Debug\Quan_Ly_F&B.exe
+C:\Users\cuong\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\bin\Debug\Quan_Ly_F&B.pdb
+C:\Users\cuong\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F&B.csproj.AssemblyReference.cache
+C:\Users\cuong\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.fBill.resources
+C:\Users\cuong\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.fLogin.resources
+C:\Users\cuong\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.fMenu.resources
+C:\Users\cuong\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.fPOSOrder.resources
+C:\Users\cuong\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.fRevenue.resources
+C:\Users\cuong\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.fStaff.resources
+C:\Users\cuong\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.fTableManager.resources
+C:\Users\cuong\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.Properties.Resources.resources
+C:\Users\cuong\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F&B.csproj.GenerateResource.cache
+C:\Users\cuong\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F&B.csproj.CoreCompileInputs.cache
+C:\Users\cuong\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F&B.exe
+C:\Users\cuong\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F&B.pdb
+C:\Users\cuong\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.CMenuEventArgs.resources
+C:\Users\ASUS\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\bin\Debug\Quan_Ly_F&B.exe.config
+C:\Users\ASUS\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\bin\Debug\Quan_Ly_F&B.exe
+C:\Users\ASUS\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\bin\Debug\Quan_Ly_F&B.pdb
+C:\Users\ASUS\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F&B.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.fBill.resources
+C:\Users\ASUS\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.fLogin.resources
+C:\Users\ASUS\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.fMenu.resources
+C:\Users\ASUS\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.fNotification.resources
+C:\Users\ASUS\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.fPOSOrder.resources
+C:\Users\ASUS\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.fRevenue.resources
+C:\Users\ASUS\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.fStaff.resources
+C:\Users\ASUS\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.fTableManager.resources
+C:\Users\ASUS\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F_B.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F&B.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F&B.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F&B.exe
+C:\Users\ASUS\Desktop\Quan_Ly_F&B\Quan_Ly_F&B\obj\Debug\Quan_Ly_F&B.pdb
