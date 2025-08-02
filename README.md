@@ -3,37 +3,65 @@
 ## Thông tin chung
 - **Trường:** Đại học Công nghệ Sài Gòn
 - **Niên khóa:** 2023 - 2024
-- **Mã sinh viên:** DH52111801
 - **Tên sinh viên:** Trần Đức Thiều
-- **Chủ đề:** [Thêm tên hoặc mô tả ngắn gọn về đồ án, ví dụ: "Hệ thống Quản lý Nội thất" hoặc "Ứng dụng Thương mại Điện tử"]
+- **Chủ đề:** Hệ thống Quản lý Nhà hàng và Đồ uống (F&B)
 
-## Mô tả dự án
-[Viết một đoạn ngắn giới thiệu về dự án của bạn. Ví dụ:  
-Đây là đồ án tin học được thực hiện nhằm phát triển [mô tả mục tiêu, ví dụ: một ứng dụng quản lý đơn hàng hoặc hệ thống phân tích dữ liệu]. Dự án sử dụng các công nghệ như [liệt kê công nghệ, ví dụ: Python, HTML, CSS, JavaScript] và tập trung vào [mục đích chính, ví dụ: tối ưu hóa quy trình làm việc].]
+## Giới thiệu chi tiết về dự án
+Dự án "Quản lý F&B" là một ứng dụng được phát triển để hỗ trợ quản lý các hoạt động trong lĩnh vực nhà hàng hoặc quán cà phê. Dự án được thực hiện bằng ngôn ngữ C# với nền tảng .NET, sử dụng giao diện Windows Forms. Hệ thống bao gồm các chức năng cơ bản như:
+- Quản lý danh sách thực đơn.
+- Theo dõi đơn hàng và thanh toán.
+- Quản lý nhân viên
+- Báo cáo doanh thu và thống kê hàng tồn kho.
 
-## Cấu trúc thư mục
-- **[Tên thư mục 1]:** [Mô tả ngắn, ví dụ: chứa mã nguồn chính]
-- **[Tên thư mục 2]:** [Mô tả ngắn, ví dụ: tài liệu hướng dẫn]
-- **[Tên thư mục 3]:** [Mô tả ngắn, ví dụ: dữ liệu mẫu]
+## Cấu trúc thư mục (Quan_Ly_F&B)
+- **/Properties:** Chứa các tệp cấu hình và tài nguyên của dự án (ví dụ: `AssemblyInfo.cs`, `Resources.resx`).
+- **/bin/Debug:** Thư mục chứa tệp thực thi sau khi biên dịch (ví dụ: `Quan_Ly_F&B.csproj`).
+- **/obj/Debug:** Thư mục tạm thời cho quá trình biên dịch.
+- **App.config:** Tệp cấu hình ứng dụng.
+- **CBill.cs:** Lớp quản lý hóa đơn.
+- **CMenu.cs:** Lớp quản lý thực đơn.
+- **CNhanVien.cs:** Lớp quản lý thông tin nhân viên.
+- **COrder.cs:** Lớp quản lý đơn hàng.
+- **Program.cs:** Điểm nhập của ứng dụng.
+- **fLogin.resx, fMenuDesigner.cs, fMenu.cs, fMenu.resx:** Form đăng nhập và quản lý thực đơn (giao diện và tài nguyên).
+- **fNotification.Designer.cs, fNotification.cs, fNotification.resx:** Form thông báo (giao diện và tài nguyên).
+- **fPOSOrder.Designer.cs, fPOSOrder.cs, fPOSOrder.resx:** Form đặt hàng POS (giao diện và tài nguyên).
+- **fRevenue.Designer.cs, fRevenue.cs, fRevenue.resx:** Form báo cáo doanh thu (giao diện và tài nguyên).
+- **fStaff.Designer.cs, fStaff.cs, fStaff.resx:** Form quản lý nhân viên (giao diện và tài nguyên).
+  
+## Hướng dẫn cài đặt và chạy
+1. **Clone repository:**
+- git clone https://github.com/Romesdo/DATH1-DH52111801-TranDucThieu.git
+- cd Quan_Ly_F&B
+2. **Cài đặt môi trường:**
+- Cài đặt Visual Studio (phiên bản hỗ trợ .NET Framework).
+- Khôi phục các gói NuGet nếu có (nếu có file `.csproj`).
+3. **Mở dự án:**
+- Mở file `Quan_Ly_F&B.csproj` trong Visual Studio.
+4. **Chạy ứng dụng:**
+- Nhấn F5 hoặc Build > Run trong Visual Studio.
+5. **Yêu cầu hệ thống:** Visual Studio 2019/2022, .NET Framework 4.7.2 hoặc cao hơn.
 
-## Hướng dẫn sử dụng
-1. **Cài đặt:** [Hướng dẫn cách cài đặt, ví dụ: Clone repository và chạy `npm install` hoặc `pip install -r requirements.txt`.]
-2. **Chạy dự án:** [Hướng dẫn cách khởi động, ví dụ: `python main.py` hoặc `node app.js`.]
-3. **Yêu cầu:** [Liệt kê phần mềm hoặc thư viện cần thiết, ví dụ: Python 3.9, Node.js 14.x.]
+## Tính năng nổi bật
+- **Quản lý đăng nhập:** Hỗ trợ đăng nhập cho nhân viên.
+- **Quản lý thực đơn:** Thêm, sửa, xóa món ăn/thức uống.
+- **Đặt hàng POS:** Theo dõi và xử lý đơn hàng trực tiếp.
+- **Quản lý nhân viên:** Lưu trữ và quản lý thông tin nhân viên.
+- **Báo cáo doanh thu:** Thống kê doanh thu theo thời gian.
+- **Thông báo:** Hiển thị thông tin quan trọng cho người dùng.
 
-## Tính năng
-- [Tính năng 1, ví dụ: Quản lý danh sách sản phẩm]
-- [Tính năng 2, ví dụ: Tạo báo cáo thống kê]
-- [Tính năng 3, ví dụ: Giao diện người dùng thân thiện]
+## Hướng dẫn đóng góp
+- Fork repository này.
+- Tạo branch mới: `git checkout -b ten-tinh-nang`.
+- Commit thay đổi: `git commit -m "Mô tả thay đổi"`.
+- Push lên branch: `git push origin ten-tinh-nang`.
+- Tạo Pull Request để hợp nhất code.
 
 ## Liên hệ
 - **Tác giả:** Trần Đức Thiều
-- **Email:** [Thêm email nếu muốn, ví dụ: thieu.tran@example.com]
-- **Mã sinh viên:** DH52111801
-
-## Giấy phép
-[Mô tả giấy phép nếu có, ví dụ: "Dự án này được phát hành dưới giấy phép MIT." Hoặc để trống nếu chưa có.]
+- **Email:** ducthieu1606@gmail.com
 
 ## Lưu ý
 - Dự án này là sản phẩm học tập, vui lòng không sử dụng cho mục đích thương mại nếu không được phép.
-- Đóng góp hoặc phản hồi xin gửi qua [liên kết hoặc email].
+- Đóng góp hoặc phản hồi xin gửi qua ducthieu1606@gmail.com.
+- Phiên bản hiện tại có thể chưa hoàn thiện, mọi phản hồi đều được chào đón.
