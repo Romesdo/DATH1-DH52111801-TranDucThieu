@@ -1,4 +1,4 @@
-# Đồ Án Tin Học - DH52111801 - Trần Đức Thiều
+# Đồ Án Tin Học - Trần Đức Thiều
 
 ## Thông tin chung
 - **Trường:** Đại học Công nghệ Sài Gòn
